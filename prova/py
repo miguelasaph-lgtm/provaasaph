@@ -1,0 +1,5 @@
+python
+nome = "Miguel"
+altura = 1.73
+
+print(f"Meu nome é {nome} e tenho {altura} de altura")
